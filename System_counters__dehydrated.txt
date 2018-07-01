@@ -1,0 +1,64 @@
+\Processor Information(*)\% Processor Time
+\Processor Information(*)\% Privileged Time
+\Processor Information(*)\Idle Break Events/sec
+\Processor Information(*)\Interrupts/sec
+\Processor Information(_Total)\*
+\Process(bcp*)\% Processor Time
+\Process(bcp*)\% Privileged Time
+\Process(bcp*)\Private Bytes
+\Process(bcp*)\Thread Count
+\Process(bcp*)\Virtual Bytes
+\Process(bcp*)\Working Set
+\Process(DTExec*)\% Processor Time
+\Process(DTExec*)\% Privileged Time
+\Process(DTExec*)\Private Bytes
+\Process(DTExec*)\Thread Count
+\Process(DTExec*)\Virtual Bytes
+\Process(DTExec*)\Working Set
+\Process(sqlservr*)\% Processor Time
+\Process(sqlservr*)\% Privileged Time
+\Process(sqlservr*)\Private Bytes
+\Process(sqlservr*)\Thread Count
+\Process(sqlservr*)\Virtual Bytes
+\Process(sqlservr*)\Working Set
+\Process(w3wp*)\% Processor Time
+\Process(w3wp*)\% Privileged Time
+\Process(w3wp*)\Private Bytes
+\Process(w3wp*)\Thread Count
+\Process(w3wp*)\Virtual Bytes
+\Process(w3wp*)\Working Set
+\SQLServer:SSIS Service 13.0\SSIS Package Instances
+\SQLServer:SSIS Pipeline 13.0\Buffer memory
+\SQLServer:SSIS Pipeline 13.0\Buffers in use
+\SQLServer:SSIS Pipeline 13.0\Buffers spooled
+\SQLServer:SSIS Pipeline 13.0\Flat buffer memory
+\SQLServer:SSIS Pipeline 13.0\Flat buffers in use
+\SQLServer:SSIS Pipeline 13.0\Private buffer memory
+\SQLServer:SSIS Pipeline 13.0\Private buffers in use
+\SQLServer:SSIS Pipeline 13.0\Rows read
+\SQLServer:SSIS Pipeline 13.0\Rows written
+\Network Interface(*)\Bytes Received/sec
+\Network Interface(*)\Bytes Sent/sec
+\Network Interface(*)\Packets Received/sec
+\Network Interface(*)\Packets Sent/sec
+\LogicalDisk(*)\Current Disk Queue Length
+\LogicalDisk(*)\Avg. Disk sec/Read
+\LogicalDisk(*)\Avg. Disk sec/Write
+\LogicalDisk(*)\Disk Read Bytes/sec
+\LogicalDisk(*)\Disk Write Bytes/sec
+\LogicalDisk(*)\Disk Reads/sec
+\LogicalDisk(*)\Disk Writes/sec
+\Memory\Demand Zero Faults/sec
+\Memory\Modified Page List Bytes
+\Memory\Page Reads/sec
+\Memory\Page Writes/sec
+\Memory\Pages Input/sec
+\Memory\Pages Output/sec
+\Memory\Transition Faults/sec
+\NUMA Node Memory(*)\*
+\Paging File(_Total)\% Usage
+\Server\Bytes Total/sec
+\System\Context Switches/sec
+\System\Processor Queue Length
+\VM Memory\*
+\VM Processor(*)\*

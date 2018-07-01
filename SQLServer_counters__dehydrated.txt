@@ -1,0 +1,35 @@
+:Buffer Manager\*
+:Buffer Node(*)\*
+:Columnstore(*)\*
+:Databases(_Total)\Backup/Restore Throughput/sec
+:Databases(_Total)\Bulk Copy Rows/sec
+:Databases(_Total)\Bulk Copy Throughput/sec
+:Databases(_Total)\DBCC Logical Scan Bytes/sec
+:Databases(_Total)\Log Bytes Flushed/sec
+:Databases(_Total)\Log Flush Wait Time
+:Databases(_Total)\Log Flush Waits/sec
+:Databases(_Total)\Log Flush Write Time (ms)
+:Databases(_Total)\Log Flushes/sec
+:Databases(_Total)\Log Pool Cache Misses/sec
+:Databases(_Total)\Log Pool Disk Reads/sec
+:Databases(_Total)\Log Pool Requests/sec
+:Databases(_Total)\Transactions/sec
+:Databases(_Total)\Write Transactions/sec
+:Databases(tempdb)\Data File(s) Size (KB)
+:General Statistics\Connection Reset/sec
+:General Statistics\Logins/sec
+:General Statistics\Processes blocked
+:General Statistics\User Connections
+:Locks(*)\Lock Waits/sec
+:Memory Broker Clerks(*)\*
+:Memory Manager\*
+:Memory Node(*)\*
+:Plan Cache(*)\Cache Pages
+:Resource Pool Stats(*)\*
+:SQL Statistics\Batch Requests/sec
+:SQL Statistics\SQL Compilations/sec
+:SQL Statistics\SQL Re-Compilations/sec
+:Transactions\Free Space in tempdb (KB)
+:Transactions\Transactions
+:Wait Statistics(*)\*
+:Workload Group Stats(*)\*
